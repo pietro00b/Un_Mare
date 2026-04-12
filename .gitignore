@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Pure Data
+*.pd~
+*.pd.bak
+
+# Editor backups
+*~
+*.swp
+*.swo
