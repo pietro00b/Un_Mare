@@ -1,20 +1,16 @@
-# Brano Live El
+# Brano Un_mare
 
 Progetto Pure Data per performance live.
 
 ## Struttura
 
 ```
-src/
+pure_data/
 ├── Main.pd          # Patch principale
 ├── sezione1.pd      # Sezione 1
 ├── sezione2.pd      # Sezione 2
 ├── sezione3.pd      # Sezione 3
-└── refactoring/
-    ├── rf_Main.pd       # Main refactored
-    ├── rf_sezione1.pd   # Sezione 1 refactored
-    ├── rf_sezione2.pd   # Sezione 2 refactored
-    └── rf_sezione3.pd   # Sezione 3 refactored
+
 ```
 
 ## Requisiti
