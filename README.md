@@ -9,7 +9,7 @@ Il brano non prevede altoparlanti tradizionali: il suono, elaborato in tempo rea
 ## Ascolto
 
 Registrazioni audio (.wav) del brano disponibili su Mega:
-👉 **[Ascolta le versioni audio di Un Mare](https://mega.nz/folder/trl1DJQD#IUzRp37Xvp70Xevib5CkLQ)**
+ **[Ascolta le versioni audio di Un Mare](https://mega.nz/folder/trl1DJQD#IUzRp37Xvp70Xevib5CkLQ)**
 
 ## Struttura del repository
 
@@ -62,11 +62,6 @@ Aprire `pure_data/Main.pd` con Pure Data per avviare la patch principale. Il pas
 
 - **Tesina d'esame** (`docs/Pietro_Barale_UnMare_tesina.pdf`): descrizione generale, setup, analisi sezione per sezione, funzionamento della patch, bibliografia e discografia.
 - **Partitura** (`img/Pietro_Barale_UnMare_partitura.pdf`): indicazioni per gli esecutori, schemi di routing per ciascuna sezione.
-
-## Bibliografia
-
-- Di Scipio, Agostino. 2021. *Circuiti del tempo. Un percorso storico-critico nella creatività musicale elettroacustica e informatica*. Lucca: LIM.
-- Di Scipio, Agostino. 2005. "Per una crisi dell'elettronica dal vivo. *I am sitting in a room* di Alvin Lucier." *Rivista di Analisi e Teoria Musicale*, n. 2 (giugno 2006), 111–134.
 
 ## Discografia
 
