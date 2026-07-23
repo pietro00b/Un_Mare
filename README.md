@@ -45,7 +45,7 @@ Il brano è pensato per spazi medio-piccoli e non richiede amplificazione aggiun
 | Sezione | Routing | Durata |
 |---|---|---|
 | 1 | diretto (ogni strumento in feedback con sé stesso) | 3'00"–4'30" |
-| 2 | incrociato (ogni strumento diffonde l'altro) | max 1'30" |
+| 2 | incrociato (ogni strumento diffonde l'altro) | max 3'30" |
 | 3 | incrociato + diretto combinato (buffer lungo verso lo strumento opposto, buffer corto verso lo strumento di provenienza) | max 3'00" |
 
 Il passaggio tra le sezioni è gestito da tastiera del computer con un crossfade audio di 10 secondi. Dettagli completi su DSP, routing e indicazioni per gli esecutori nella tesina in `docs/`.
